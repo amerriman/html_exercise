@@ -1,0 +1,41 @@
+body {
+  background-color: #B2DFEE;
+}
+ol  {
+  list-style-type: lower-roman;
+  font-family: Copperplate;
+}
+ul {
+  list-style-type: square;
+  font-family: Copperplate;
+}
+header {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 1px solid black;
+  border-radius: 10%;
+  background-color: #F0F8FF;
+  font-family: Copperplate;
+
+}
+.main_section {
+  width: 40%;
+  margin: auto;
+  padding-left: 5px;
+  padding-top: 10px;
+  font-family: Copperplate;
+}
+img{
+  float: left;
+  border: 1px solid black;
+  border-radius: 10%;
+  margin-left: 20%;
+}
+p {
+  padding-top: 10px;
+  font-family: Copperplate;
+  padding-bottom: 10px;
+}
